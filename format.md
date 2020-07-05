@@ -28,9 +28,123 @@ titles:
 key: page-format
 ---
 
-一下是针对页面维护人员和工作人员的一些写作规范指导和提示，请在上传文章时尽量遵循这些规范并仔细阅读提示，这些提示可能会对你的书写语法很有用:)。
+以下是针对页面维护人员和工作人员的一些写作规范指导和提示，请在上传文章时尽量遵循这些规范并仔细阅读提示，这些提示可能会对你的书写语法很有用:)。
+
+## 个人活动记录页
+
+该页面将会记录你自己的工作和学习进程，还可以展示你自己技能和成果，并以此互为勉励。
+
+我们建议每一位工作人员都应该有一个个人活动记录页，但并不强求。
+{:.warning}
+
+### 规范
+
+注意在 *_posts* 文件夹下按 `年-月-日-名字.md` 的格式创建自己的活动记录页，**并在每次更新时更新名字前的日期。**
+
+请确保有一下内容：
+
+* 个人简介
+* 活动记录
+
+并确保YAML中有以下信息：
+
+```
+---
+title: #你的名字
+author: #你的名字
+tags:
+ - activity page
+---
+```
+
+其中`author`元素需要在 *_config.yml* 中配置`author`，请联系网页维护人员是否已经为你配置好，如果没有可以催一下，或者自己配置，配置请参考[这个](https://tianqi.name/jekyll-TeXt-theme/docs/zh/authors)。
+
+维护人员会向你询问一些信息以填入资料，但并非必需的。
+{:.info}
+
+### 提示
+
+一些特殊的样式请参考官方的[样例](https://tianqi.name/jekyll-TeXt-theme/samples.html)。
+
+或者参考以下例子：
+
+```
+---
+layout: article
+mode: immersive #在沉浸模式下具有带半透明标题的图像文章标题。
+header:
+  theme: dark
+article_header:
+  type: cover
+  image:
+    src: #文章头图
+title: #your name
+author: #需和 *_config.yml* 中配置的`author`相同
+cover: #文章摘要显示的封面
+tags:
+ - activity page
+---
+```
 
 ## 语法提示
+
+### 前言
+
+注意使用 `<!--more-->` 来分割前言和正文部分。以下是一个例子：
+
+```md
+---
+layout: article
+title: DD
+author: DD
+tags:
+ - activity page
+---
+
+Hello, here is my personal activity record page, I will continue to update my work and learning dynamics here.
+
+<!--more-->
+
+---
+
+## 20-07-05
+
+Today we had a meeting…………
+```
+
+### 目录
+
+如果需要显示侧边目录，请在YAML中加入以下属性：
+
+```
+---
+aside:
+  toc: true
+---
+```
+
+### 封面和头图
+
+如果需要在主页显示一个封面，请在YAML中加入以下属性：
+
+```
+---
+cover: https://i.loli.net/2020/07/05/S2AglOk7dPpmWxw.jpg #文章摘要显示的封面
+---
+```
+
+如果需要在文章内显示一个头图，请在YAML中加入以下属性：
+
+```
+---
+article_header:
+  type: cover
+  image:
+    src: #文章头图
+---
+```
+
+更多的样式请参考官方的[样例](https://tianqi.name/jekyll-TeXt-theme/samples.html)。
 
 ### 附加样式
 
