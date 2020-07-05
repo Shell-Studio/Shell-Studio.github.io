@@ -2,7 +2,7 @@
 layout: article
 mode: immersive
 header:
-  theme: forest
+  theme: dark
 article_header:
   type: cover
   image:
