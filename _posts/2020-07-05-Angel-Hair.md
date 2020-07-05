@@ -1,8 +1,14 @@
 ---
 layout: article
+mode: immersive
+header:
+  theme: forest
+article_header:
+  type: cover
+  image:
+    src: https://i.loli.net/2020/07/05/AcBvsGgZk4fl5xF.png
 title: Angel Hair
 author: Angel Hair
-cover: https://i.loli.net/2020/07/05/S2AglOk7dPpmWxw.jpg
 tags:
  - activity page
 ---
