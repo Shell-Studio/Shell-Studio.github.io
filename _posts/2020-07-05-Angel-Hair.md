@@ -3,6 +3,7 @@ layout: article
 title: Angel Hair
 author: Angel Hair
 cover: https://i.loli.net/2020/07/05/S2AglOk7dPpmWxw.jpg
+excerpt_type: html
 tags:
  - activity page
 ---
