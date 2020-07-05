@@ -1,5 +1,7 @@
 ---
 layout: article
+aside:
+  toc: true
 titles:
   # @start locale config
     en      : &EN       Format
