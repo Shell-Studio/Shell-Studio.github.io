@@ -15,3 +15,21 @@ Angel Hair:
     linkedin  : # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
     github    : Angel-Hair # "user_name" the last part of your profile url, e.g. https://github.com/user_name
     npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
+
+Original04:
+    name      : Original04
+    url       : http://dongquanc.github.io
+    avatar    : https://i.loli.net/2020/07/05/sYri5Rz1AMJkTcF.jpg
+    bio       : #Author of TeXt.
+    email     : dongquanc0418@gmail.com
+    facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
+    twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
+    weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
+    googleplus: # "user_id"   the last part of your profile url, e.g. https://plus.google.com/u/0/user_id
+    telegram  : # "user_name" the last part of your profile url, e.g. https://t.me/user_name
+    medium    : # "user_name" the last part of your profile url, e.g. https://medium.com/user_name
+    zhihu     : # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
+    douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
+    linkedin  : # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
+    github    : dongquanc # "user_name" the last part of your profile url, e.g. https://github.com/user_name
+    npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
