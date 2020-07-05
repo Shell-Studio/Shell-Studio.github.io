@@ -9,7 +9,7 @@ tags:
 
 <div align="center">
 
-![Angel-Hair]([path-to-image](https://i.loli.net/2020/07/05/S2AglOk7dPpmWxw.jpg)){:.circle.shadow}
+![Angel-Hair](https://i.loli.net/2020/07/05/S2AglOk7dPpmWxw.jpg){:.circle.shadow}
 
 **Angel Hair**
 
