@@ -1,0 +1,27 @@
+---
+layout: article
+title: Angel Hair
+author: Angel Hair
+cover: https://i.loli.net/2020/07/05/S2AglOk7dPpmWxw.jpg
+tags:
+ - activity page
+---
+
+<div align="center">
+
+![Angel-Hair]([path-to-image](https://i.loli.net/2020/07/05/S2AglOk7dPpmWxw.jpg)){:.circle.shadow}
+
+**Angel Hair**
+
+你好，这里是我的个人活动记录页，我将会在这里持续更新我的工作和学习动态。我在工作室中负责的是设计师和程序，什么都在学，什么都不会……
+</div>
+
+<!--more-->
+
+---
+
+## 日活
+
+### 20-07-05
+
+* 由cheng负责配置，我负责内容配置好工作室的主页。
