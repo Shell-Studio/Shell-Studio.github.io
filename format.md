@@ -253,9 +253,11 @@ Error Text.
 
 <div>{%- include extensions/soundcloud.html id='586191846' -%}</div>
 
-```html
-<div>{%- include extensions/soundcloud.html id='313627932' -%}</div>
+{% raw %}
+```md
+<div>{%- include extensions/soundcloud.html id='586191846' -%}</div>
 ```
+{% endraw %}
 
 **id:**
 ![extensions-soundclound](assets/images/extensions-soundclound.jpg){:height="256px"}
@@ -264,9 +266,11 @@ Error Text.
 
 <div>{%- include extensions/netease-cloud-music.html id='29124091' -%}</div>
 
-```html
-<div>{%- include extensions/netease-cloud-music.html id='413812448' -%}</div>
+{% raw %}
+```md
+<div>{%- include extensions/netease-cloud-music.html id='29124091' -%}</div>
 ```
+{% endraw %}
 
 **id:**
 ![extensions-netease-cloud-music](assets/images/extensions-netease-cloud-music.jpg){:height="256px"}
@@ -277,9 +281,11 @@ Error Text.
 
 <div>{%- include extensions/youtube.html id='WZJ7nSdIbwk' -%}</div>
 
-```html
-<div>{%- include extensions/youtube.html id='wbY97-hdD5c' -%}</div>
+{% raw %}
+```md
+<div>{%- include extensions/youtube.html id='WZJ7nSdIbwk' -%}</div>
 ```
+{% endraw %}
 
 **id:**
 ![extensions-youtube](assets/images/extensions-youtube.jpg){:height="256px"}
@@ -288,9 +294,11 @@ Error Text.
 
 <div>{%- include extensions/ted.html id='emily_esfahani_smith_there_s_more_to_life_than_being_happy' -%}</div>
 
-```html
+{% raw %}
+```md
 <div>{%- include extensions/ted.html id='emily_esfahani_smith_there_s_more_to_life_than_being_happy' -%}</div>
 ```
+{% endraw %}
 
 **id:**
 ![extensions-ted](assets/images/extensions-ted.jpg){:height="256px"}
@@ -299,9 +307,11 @@ Error Text.
 
 <div>{%- include extensions/bilibili.html id='98297433' -%}</div>
 
-```html
-<div>{%- include extensions/bilibili.html id='11091080' -%}</div>
+{% raw %}
+```md
+<div>{%- include extensions/bilibili.html id='98297433' -%}</div>
 ```
+{% endraw %}
 
 **id:**
 ![extensions-bilibili](assets/images/extensions-bilibili.jpg){:height="256px"}
