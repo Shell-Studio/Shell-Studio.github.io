@@ -254,22 +254,22 @@ Error Text.
 <div>{%- include extensions/soundcloud.html id='586191846' -%}</div>
 
 ```html
-<div>{%- include extensions/soundcloud.html id='586191846' -%}</div>
+<div>{%- include extensions/soundcloud.html id='313627932' -%}</div>
 ```
 
 **id:**
-![extensions-soundclound](assets/images/extensions-soundclound.jpg)
+![extensions-soundclound](assets/images/extensions-soundclound.jpg){:height="256px"}
 
 **网易云音乐**
 
 <div>{%- include extensions/netease-cloud-music.html id='29124091' -%}</div>
 
 ```html
-<div>{%- include extensions/netease-cloud-music.html id='29124091' -%}</div>
+<div>{%- include extensions/netease-cloud-music.html id='413812448' -%}</div>
 ```
 
 **id:**
-![extensions-netease-cloud-music](assets/images/extensions-netease-cloud-music.jpg)
+![extensions-netease-cloud-music](assets/images/extensions-netease-cloud-music.jpg){:height="256px"}
 
 #### 视频
 
@@ -278,11 +278,11 @@ Error Text.
 <div>{%- include extensions/youtube.html id='WZJ7nSdIbwk' -%}</div>
 
 ```html
-<div>{%- include extensions/youtube.html id='WZJ7nSdIbwk' -%}</div>
+<div>{%- include extensions/youtube.html id='wbY97-hdD5c' -%}</div>
 ```
 
 **id:**
-![extensions-youtube](assets/images/extensions-youtube.jpg)
+![extensions-youtube](assets/images/extensions-youtube.jpg){:height="256px"}
 
 **TED**
 
@@ -293,15 +293,15 @@ Error Text.
 ```
 
 **id:**
-![extensions-ted](assets/images/extensions-ted.jpg)
+![extensions-ted](assets/images/extensions-ted.jpg){:height="256px"}
 
 **BiliBili**
 
 <div>{%- include extensions/bilibili.html id='98297433' -%}</div>
 
 ```html
-<div>{%- include extensions/bilibili.html id='98297433' -%}</div>
+<div>{%- include extensions/bilibili.html id='11091080' -%}</div>
 ```
 
 **id:**
-![extensions-bilibili](assets/images/extensions-bilibili.jpg)
+![extensions-bilibili](assets/images/extensions-bilibili.jpg){:height="256px"}
