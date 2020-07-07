@@ -249,18 +249,22 @@ Error Text.
 
 #### 音乐
 
+**SoundCloud**
+
 <div>{%- include extensions/soundcloud.html id='586191846' -%}</div>
 
-```md
+```
 <div>{%- include extensions/soundcloud.html id='586191846' -%}</div>
 ```
 
 **id:**
 ![extensions-soundclound](assets/images/extensions-soundclound.jpg)
 
+**网易云音乐**
+
 <div>{%- include extensions/netease-cloud-music.html id='29124091' -%}</div>
 
-```md
+```
 <div>{%- include extensions/netease-cloud-music.html id='29124091' -%}</div>
 ```
 
@@ -269,27 +273,33 @@ Error Text.
 
 #### 视频
 
+**YTB**
+
 <div>{%- include extensions/youtube.html id='WZJ7nSdIbwk' -%}</div>
 
-```md
+```
 <div>{%- include extensions/youtube.html id='WZJ7nSdIbwk' -%}</div>
 ```
 
 **id:**
 ![extensions-youtube](assets/images/extensions-youtube.jpg)
 
+**TED**
+
 <div>{%- include extensions/ted.html id='emily_esfahani_smith_there_s_more_to_life_than_being_happy' -%}</div>
 
-```md
+```
 <div>{%- include extensions/ted.html id='emily_esfahani_smith_there_s_more_to_life_than_being_happy' -%}</div>
 ```
 
 **id:**
 ![extensions-ted](assets/images/extensions-ted.jpg)
 
+**BiliBili**
+
 <div>{%- include extensions/bilibili.html id='BV1UE411w7Bn' -%}</div>
 
-```md
+```
 <div>{%- include extensions/bilibili.html id='BV1UE411w7Bn' -%}</div>
 ```
 
