@@ -246,3 +246,52 @@ Error Text.
 ```md
 ![Image](path-to-image){:.circle.shadow}
 ```
+
+#### 音乐
+
+<div>{%- include extensions/soundcloud.html id='586191846' -%}</div>
+
+```md
+<div>{%- include extensions/soundcloud.html id='586191846' -%}</div>
+```
+
+**id:**
+![extensions-soundclound](assets/images/extensions-soundclound.jpg)
+
+<div>{%- include extensions/netease-cloud-music.html id='29124091' -%}</div>
+
+```md
+<div>{%- include extensions/netease-cloud-music.html id='29124091' -%}</div>
+```
+
+**id:**
+![extensions-netease-cloud-music](assets/images/extensions-netease-cloud-music.jpg)
+
+#### 视频
+
+<div>{%- include extensions/youtube.html id='WZJ7nSdIbwk' -%}</div>
+
+```md
+<div>{%- include extensions/youtube.html id='WZJ7nSdIbwk' -%}</div>
+```
+
+**id:**
+![extensions-youtube](assets/images/extensions-youtube.jpg)
+
+<div>{%- include extensions/ted.html id='emily_esfahani_smith_there_s_more_to_life_than_being_happy' -%}</div>
+
+```md
+<div>{%- include extensions/ted.html id='emily_esfahani_smith_there_s_more_to_life_than_being_happy' -%}</div>
+```
+
+**id:**
+![extensions-ted](assets/images/extensions-ted.jpg)
+
+<div>{%- include extensions/bilibili.html id='BV1UE411w7Bn' -%}</div>
+
+```md
+<div>{%- include extensions/bilibili.html id='BV1UE411w7Bn' -%}</div>
+```
+
+**id:**
+![extensions-bilibili](assets/images/extensions-bilibili.jpg)
