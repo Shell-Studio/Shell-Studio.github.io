@@ -253,7 +253,7 @@ Error Text.
 
 <div>{%- include extensions/soundcloud.html id='586191846' -%}</div>
 
-```
+```html
 <div>{%- include extensions/soundcloud.html id='586191846' -%}</div>
 ```
 
@@ -264,7 +264,7 @@ Error Text.
 
 <div>{%- include extensions/netease-cloud-music.html id='29124091' -%}</div>
 
-```
+```html
 <div>{%- include extensions/netease-cloud-music.html id='29124091' -%}</div>
 ```
 
@@ -277,7 +277,7 @@ Error Text.
 
 <div>{%- include extensions/youtube.html id='WZJ7nSdIbwk' -%}</div>
 
-```
+```html
 <div>{%- include extensions/youtube.html id='WZJ7nSdIbwk' -%}</div>
 ```
 
@@ -288,7 +288,7 @@ Error Text.
 
 <div>{%- include extensions/ted.html id='emily_esfahani_smith_there_s_more_to_life_than_being_happy' -%}</div>
 
-```
+```html
 <div>{%- include extensions/ted.html id='emily_esfahani_smith_there_s_more_to_life_than_being_happy' -%}</div>
 ```
 
@@ -297,10 +297,10 @@ Error Text.
 
 **BiliBili**
 
-<div>{%- include extensions/bilibili.html id='BV1UE411w7Bn' -%}</div>
+<div>{%- include extensions/bilibili.html id='98297433' -%}</div>
 
-```
-<div>{%- include extensions/bilibili.html id='BV1UE411w7Bn' -%}</div>
+```html
+<div>{%- include extensions/bilibili.html id='98297433' -%}</div>
 ```
 
 **id:**
