@@ -25,6 +25,7 @@ titles:
     fr-FR   : *FR
     fr-LU   : *FR
   # @end locale config
+modify_date: 2020-07-07
 key: page-format
 ---
 
@@ -39,7 +40,7 @@ key: page-format
 
 ### 规范
 
-注意在 *_posts* 文件夹下按 `年-月-日-名字.md` 的格式创建自己的活动记录页，**并在每次更新时更新名字前的日期。**
+注意在 *_posts* 文件夹下按 `年-月-日-名字.md` 的格式创建自己的活动记录页。
 
 请确保有一下内容：
 
@@ -52,12 +53,16 @@ key: page-format
 ---
 title: #你的名字
 author: #你的名字
+modify_date: 2020-07-07 #修改日期
 tags:
  - activity page
 ---
 ```
 
 其中`author`元素需要在 *_config.yml* 中配置`author`，请联系网页维护人员是否已经为你配置好，如果没有可以催一下，或者自己配置，配置请参考[这个](https://tianqi.name/jekyll-TeXt-theme/docs/zh/authors)。
+
+注意每次修改时更新 `modify_date` 的值
+{:.warning}
 
 维护人员会向你询问一些信息以填入资料，但并非必需的。
 {:.info}
@@ -241,3 +246,72 @@ Error Text.
 ```md
 ![Image](path-to-image){:.circle.shadow}
 ```
+
+#### 音乐
+
+**SoundCloud**
+
+<div>{%- include extensions/soundcloud.html id='586191846' -%}</div>
+
+{% raw %}
+```md
+<div>{%- include extensions/soundcloud.html id='586191846' -%}</div>
+```
+{% endraw %}
+
+**id:**
+![extensions-soundclound](assets/images/extensions-soundclound.jpg){:height="256px"}
+
+**网易云音乐**
+
+<div>{%- include extensions/netease-cloud-music.html id='29124091' -%}</div>
+
+{% raw %}
+```md
+<div>{%- include extensions/netease-cloud-music.html id='29124091' -%}</div>
+```
+{% endraw %}
+
+**id:**
+![extensions-netease-cloud-music](assets/images/extensions-netease-cloud-music.jpg){:height="256px"}
+
+#### 视频
+
+**YTB**
+
+<div>{%- include extensions/youtube.html id='WZJ7nSdIbwk' -%}</div>
+
+{% raw %}
+```md
+<div>{%- include extensions/youtube.html id='WZJ7nSdIbwk' -%}</div>
+```
+{% endraw %}
+
+**id:**
+![extensions-youtube](assets/images/extensions-youtube.jpg){:height="256px"}
+
+**TED**
+
+<div>{%- include extensions/ted.html id='emily_esfahani_smith_there_s_more_to_life_than_being_happy' -%}</div>
+
+{% raw %}
+```md
+<div>{%- include extensions/ted.html id='emily_esfahani_smith_there_s_more_to_life_than_being_happy' -%}</div>
+```
+{% endraw %}
+
+**id:**
+![extensions-ted](assets/images/extensions-ted.jpg){:height="256px"}
+
+**BiliBili**
+
+<div>{%- include extensions/bilibili.html id='98297433' -%}</div>
+
+{% raw %}
+```md
+<div>{%- include extensions/bilibili.html id='98297433' -%}</div>
+```
+{% endraw %}
+
+**id:**
+![extensions-bilibili](assets/images/extensions-bilibili.jpg){:height="256px"}
