@@ -9,7 +9,7 @@ article_header:
     src: https://i.loli.net/2020/07/05/AcBvsGgZk4fl5xF.png
 title: Angel Hair
 author: Angel Hair
-modify_date: 2020-07-11
+modify_date: 2020-07-16
 cover: https://i.loli.net/2020/07/05/S2AglOk7dPpmWxw.jpg
 tags:
  - activity page
@@ -59,3 +59,8 @@ tags:
 
 * 吃了程做的晚饭，我居然还活着……
 * 基本玩法设定完成，详见`玩法简介草图.png`
+
+### 20-07-15
+
+* 和程开会完成了`代码规范0.1`
+* 完成了第一章场景概要和主角房屋设计
